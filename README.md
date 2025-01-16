@@ -1,1 +1,2 @@
-# design_patterns
+# CSCE 247 - Software Engineering
+Design Pattern Assignments
