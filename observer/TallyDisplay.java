@@ -19,7 +19,9 @@ public class TallyDisplay implements Observer{
      */
     public void update(ArrayList<Candidate> candidates) {
         this.candidates = candidates;
-        display();
+        if(Candidate.totalNumVotes % 4 == 0) {
+            display();
+        }    
     }
     /*
      * Displays the current vote tallies for each candidate
