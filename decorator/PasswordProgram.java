@@ -15,8 +15,8 @@ public class PasswordProgram {
         Password password = new EasyPassword(phrase);
         System.out.println("\nEasy Password: " + password.getPassword());
 
-        password = new Pallendrome(password);
-        System.out.println("\nPallendrome Password: " + password.getPassword());
+        password = new Palindrome(password);
+        System.out.println("\nPalindrome Password: " + password.getPassword());
 
         password = new Symbols(password);
         System.out.println("\nReplacing Symbols: " + password.getPassword());
