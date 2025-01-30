@@ -1,6 +1,7 @@
 import java.util.Random;
 /*
  * This class modifies the password, replacing spaces with hyphens and appending a random number.
+ * @author Josiah White
  */
 public class EasyPassword extends Password {
     /*

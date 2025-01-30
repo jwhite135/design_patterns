@@ -1,6 +1,7 @@
 import java.util.Random;
 /*
  * This class modifies the password, adding special characters randomly.
+ * @author Josiah White
  */
 public class SpecialChars extends PasswordDecorator {
     /*

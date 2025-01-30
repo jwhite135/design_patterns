@@ -1,6 +1,7 @@
 import java.util.Random;
 /*
  * This class modifies the password, changing the casing of the characters randomly.
+ * @author Josiah White
  */
 public class RandomCasing extends PasswordDecorator {
     /*

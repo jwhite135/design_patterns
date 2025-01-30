@@ -1,5 +1,6 @@
 /*
  * An abstract class to assist with modifying the password
+ * @author Josiah White
  */
 abstract class PasswordDecorator extends Password {
     protected Password passwordBeginning;

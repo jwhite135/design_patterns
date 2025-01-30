@@ -1,5 +1,6 @@
 /*
  * An abstract class to hold the password itself.  
+ * @author Josiah White
  */
 abstract class Password {
     protected String password;

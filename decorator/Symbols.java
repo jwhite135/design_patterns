@@ -1,5 +1,6 @@
 /*
  * This class replaces certain characcters with symbols to the password.  
+ * @author Josiah White
  */
 public class Symbols extends PasswordDecorator {
     /*

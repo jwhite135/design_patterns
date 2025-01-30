@@ -1,5 +1,6 @@
 /*
  * This class modifies the password, adding the reverse of the password to the end of the password.
+ * @author Josiah White
  */
 public class Palindrome extends PasswordDecorator {
     /*
