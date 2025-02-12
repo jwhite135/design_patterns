@@ -38,7 +38,7 @@ public class MathDriver {
                 total++;
             }
         }
-        System.out.println("\nTotal: " + total + "/5");
+        System.out.println("\nTotal: " + total + "/" + MathGame.NUM_QUESTIONS);
     }
 
     private int getInt(String prompt){
